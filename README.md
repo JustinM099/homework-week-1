@@ -1,3 +1,5 @@
+
+
 This is a project to refactor the code for a fictional marketing agency's website to accomplish three aims:
 First, they want their website to be search engine optimized, and that requires including semantic code for sections, asides, et cetera.
 Second, they want their website to be accessible, and that requires adding image alt text for screen readers.
