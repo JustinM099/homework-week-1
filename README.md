@@ -8,3 +8,7 @@ Third, they want their website's code to be comprehensible, and that requires se
 Therefore, I have refactored their HTML elements into semantic elements, replacing generic 'div' tags with more specific ones such as 'section', 'aside', and 'nav'.
   I have also assigned descriptive alt text to the website's images, both to increase its SEO searchability and to optimize it for screen reading software.
   Finally, I have refactored the website's CSS to account for the HTML changes made and also to make it more legible for other developers. I have attempted to define its uses through notes that describe the section that each element is affecting on the website.
+
+  Check out the deployed version: https://justinm099.github.io/horiseon-code-refactor/
+
+  ![Alt text](01-html-css-git-homework-demo.png "Project Screenshot")
